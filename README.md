@@ -4,8 +4,9 @@ NewsHub is a real-time Android news application built with Kotlin, Retrofit, Roo
 
 ![NewsHub Banner](https://github.com/abhayjoshi201/NewsApp/assets/105213625/4b2cbe5d-fbc5-4123-9712-af6e52b63f24)
 
-## Features
+![WhatsApp Image 2024-02-08 at 21 24 39_84d9b99f](https://github.com/abhayjoshi201/NewsApp/assets/105213625/85128710-b659-4567-b332-ac858582da30)
 
+## Features
 - **Real-time Updates**: Get the latest news in real-time.
 - **Bookmarking Feature**: Save articles for later reading with the user-friendly bookmarking feature.
 - **Filtering Options**: Customize your news exploration with filtering options.
